@@ -5,7 +5,7 @@
     <p class="intro">Стоимость и перечень услуг &gt;</p>
     <hr class="toll">
     <tabs>
-      <tab title="малыши">
+      <tab title="Малыши">
         <gallery
           path="/photos/baby/"
           :photos="[
